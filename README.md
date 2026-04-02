@@ -1,15 +1,25 @@
-☕ Java Practice Repository
+## ☕ Java Practice & Projects
 
-This repository contains my Java learning journey, including basic concepts, practice programs, and mini projects. It helps me improve my coding skills and track my progress.
+This repository contains my Java learning journey, including practice programs and mini projects. It helps me build a strong foundation in core Java concepts and apply them through hands-on coding.
 
-📂 Contents
+---
 
-Core Java concepts
+### 📂 Structure
 
-Practice programs 
+#### 🔹 Practice
+- Basics (variables, data types, operators)
+- Control flow (if-else, loops)
+- Methods
+- Arrays and Strings
+- OOP concepts (classes, inheritance, polymorphism)
 
-Projects
+#### 🔹 Projects
+- Mini projects for practical understanding
+- Real-world problem solving
+- Concept-based implementations
 
-🎯 Goal
+---
 
-To build a strong foundation in Java through consistent practice and hands-on coding.
+### 🎯 Goal
+
+To strengthen Java fundamentals and improve problem-solving skills through consistent practice and project building.
