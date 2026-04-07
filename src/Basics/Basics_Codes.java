@@ -16,5 +16,9 @@ public class Basics_Codes {
         String name = "John Snow";
         System.out.println("Hello " + name);
 
+        //print() method
+        System.out.print("Hello World! \n");
+        System.out.print("I will print on the same line.");
+
     }
 }
