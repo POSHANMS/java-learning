@@ -1,6 +1,6 @@
 package Basics;
 
-public class Basics_Codes {
+public class BasicsCodes {
     public static void main(String[] args) {
 
         // Print Hello World

@@ -1,14 +1,14 @@
 package Basics;
 
 public class Variables {
-    public  static void main(String[] args) {
+    public static void main(String[] args) {
         // Declaring and initializing variables
 
         // Integer variable
         int age = 25;
 
         // String variable
-        String Name = "Rajesh";
+        String name = "Rajesh";
 
         // Initializing float variable
         float si = 5.5f;
@@ -17,14 +17,14 @@ public class Variables {
         char var = 'h';
 
         // Double variable
-        double Salary = 4500.00;
+        double salary = 4500.00;
 
         // Displaying the values of variables
         System.out.println("Age: " + age);
-        System.out.println("Name: " + Name);
+        System.out.println("Name: " + name);
         System.out.println("Si: " + si);
         System.out.println("Var: " + var);
-        System.out.println("Salary: " + Salary);
+        System.out.println("Salary: " + salary);
 
         /*
             Implicit casting: Happens automatically when converting
