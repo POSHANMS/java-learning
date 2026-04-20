@@ -89,8 +89,10 @@ public class Operators {
         System.out.println(obj instanceof Integer);
         System.out.println(obj instanceof String);
 
-
-
+        // Operator Precedence and Associativity
+        int res = 100 + 200 / 10 - 3 * 10;
+        // Verifying the result of the same expression
+        System.out.println("Final Output: " + res);
 
     }
 }
